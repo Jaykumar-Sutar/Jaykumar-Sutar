@@ -27,11 +27,6 @@ Driven by turning complex datasets into actionable insights. Passionate about Pr
 
 ## 📈 GitHub Metrics
 
-<p align="left">
-  <img src="https://vercel.app" alt="Jaykumar's GitHub Stats" width="400"/>
-  <img src="https://herokuapp.com" alt="Jaykumar's Streak Stats" width="400"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
