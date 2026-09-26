@@ -17,7 +17,7 @@ Driven by turning complex datasets into actionable insights. Passionate about Pr
 
 ## 🚀 Highlighted Project
 
-### 📊 [Data Science Salary Prediction](https://github.com)
+### 📊 [Data Science Salary Prediction]([https://github.com](https://github.com/Jaykumar-Sutar))
 *A Machine Learning application designed to predict Data Science industry salaries based on experience, location, and job roles.*
 - Developed an end-to-end Machine Learning pipeline using advanced **Regression Modeling**.
 - Built an interactive, user-facing web interface using **Streamlit UI**.
@@ -25,11 +25,8 @@ Driven by turning complex datasets into actionable insights. Passionate about Pr
 
 ---
 
-## 📈 GitHub Metrics
-
----
-
 ## 🤝 Connect With Me
 
-- 📧 **Email:** [jaysutar2018@gmail.com]
+- 📧 **Email:** [jaysutar2018@gmail.com](mailto:jaysutar2018@gmail.com)
+
 - 🌐 **Portfolio/Resume:** [Link to your PDF Resume/Portfolio, if available]
