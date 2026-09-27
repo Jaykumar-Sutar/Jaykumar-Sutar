@@ -1,7 +1,9 @@
 # Hi, I'm Jaykumar Sutar 👋
 
+---
+
 ### M.Sc. Computer Science Graduate & Aspiring Data Scientist
-Driven by turning complex datasets into actionable insights. Passionate about Predictive Modeling, Machine Learning, and building interactive data applications. Based in **Pune, India**.
+Driven by turning complex datasets into actionable insights. Passionate about Predictive Modeling, Machine Learning, and building interactive data applications.
 
 ---
 
@@ -20,8 +22,8 @@ Driven by turning complex datasets into actionable insights. Passionate about Pr
 ### 📊 Data Science Salary Analytics & Prediction Engine
 *An end-to-end full-stack data product designed to analyze global tech industry salaries and predict compensation metrics using Machine Learning.*
 
-- **🔗 Live Dashboard Application:** [Launch the Web App][(https://9g63mvxmy4mt49h93bxbec.streamlit.app/))]
-- **📁 GitHub Source Code Link:** [Explore the Code Repository][(https://github.com/Jaykumar-Sutar/Data-Science-Salary-Prediction---Regression--)]
+- **🔗 Live Dashboard Application:** [Launch the Web App](https://9g63mvxmy4mt49h93bxbec.streamlit.app/)
+- **📁 GitHub Source Code Link:** [Explore the Code Repository](https://github.com/Jaykumar-Sutar/Data-Science-Salary-Prediction---Regression--)
 
 #### Key Implementations:
 - **SQL Pipeline Under the Hood:** Engineered an in-memory **SQLite3 database** runtime environment to host dataset records, executing structured extraction syntax (`SELECT`, `WHERE`, `ORDER BY`) instead of traditional basic flat files.
@@ -34,3 +36,4 @@ Driven by turning complex datasets into actionable insights. Passionate about Pr
 
 - 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
 - 📧 **Email:** [jaysutar2018@gmail.com](mailto:jaysutar2018@gmail.com)
+- 📞 **Phone:** [+91 XXXXXXXXXX](tel:+9921138287) *(Replace with your actual contact number)*     
