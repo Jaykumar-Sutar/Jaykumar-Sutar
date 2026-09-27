@@ -17,29 +17,16 @@ Driven by turning complex datasets into actionable insights. Passionate about Pr
 
 ## 🚀 Highlighted Project
 
-### 📊 Data Science Salary Analytics & Prediction Engine 
+### 📊 Data Science Salary Analytics & Prediction Engine
 *An end-to-end full-stack data product designed to analyze global tech industry salaries and predict compensation metrics using Machine Learning.*
 
-- **🔗 Live Dashboard Application:** [Launch the Web App](https://streamlit.app)
-- **📁 GitHub Source Code:** [Explore the Code Repository](https://github.com)
+- **🔗 Live Dashboard Application:** [[Launch the Web App](https://9g63mvxmy4mt49h93bxbec.streamlit.app/)](https://streamlit.app)
+- **📁 GitHub Source Code Link:** [Explore the Code Repository](https://github.com/Jaykumar-Sutar/Data-Science-Salary-Prediction---Regression--)]
 
 #### Key Implementations:
-- **SQL Pipeline Under the Hood:** Built an in-memory **SQLite3 database** runtime environment to house the core dataset records, running structured queries (`SELECT`, `WHERE`, `ORDER BY`) to clean and pull metrics dynamically instead of using static flat files.
-- **Interactive Predictive Interface:** Developed a multi-tab web application using **Streamlit UI** allowing recruiters to tweak seniority, title, and location sliders to get real-time Machine Learning prediction estimates.
-- **Production Cloud Deployment:** Configured continuous integration to automatically compile and host the web dashboard on **Streamlit Community Cloud**.
-
----
-
-## 📈 GitHub Analytics Dashboard
-
-<p align="left">
-  <img src="https://vercel.app" alt="Jaykumar's GitHub Stats" width="410"/>
-  <img src="https://vercel.app" alt="Jaykumar's Top Languages" width="390"/>
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="Jaykumar's Streak Stats" width="805"/>
-</p>
+- **SQL Pipeline Under the Hood:** Engineered an in-memory **SQLite3 database** runtime environment to host dataset records, executing structured extraction syntax (`SELECT`, `WHERE`, `ORDER BY`) instead of traditional basic flat files.
+- **Interactive Multi-Tab Interface:** Built a responsive web UI using **Streamlit** that houses descriptive market visualizations alongside user-facing sliders to predict individual salary vectors using Machine Learning logic.
+- **Continuous Deployment:** Established an automated cloud deployment pipeline connecting source control updates directly to **Streamlit Community Cloud**.
 
 ---
 
