@@ -34,6 +34,6 @@ Passionate about bridging the gap between raw data science prototypes and live p
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL Go Here](https://www.linkedin.com/in/jaykumar-sutar)
+- 💼 **LinkedIn:** [LinkedIn Profile URL Go Here](https://www.linkedin.com/in/jaykumar-sutar)
 - 📧 **Email:** [jaysutar2018@gmail.com](mailto:jaysutar2018@gmail.com)
 - 📞 **Phone:** +91 9921138287
