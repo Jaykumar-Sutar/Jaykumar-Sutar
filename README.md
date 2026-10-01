@@ -18,7 +18,7 @@ Passionate about bridging the gap between raw data science prototypes and live p
 
 ## 🚀 Highlighted Project
 
-### 📊 Data Science Salary Analytics & Prediction Engine
+### 📊 Data Scientists Salary Analytics & Prediction Engine
 *An end-to-end cloud-hosted web application engineered to transform a serialized machine learning backend into an interactive, functional consumer product.*
 
 - **🔗 Live Dashboard Application:** [Launch the Web App](https://9g63mvxmy4mt49h93bxbec.streamlit.app/)
